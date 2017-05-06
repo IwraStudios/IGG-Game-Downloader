@@ -15,7 +15,7 @@ Selenium is licensed under the Apache 2.0 License and is only included for conve
 * compile the program
 * start the program
 * wait for Firefox to start
-* paste url to game page on igg-games.com
+* paste url to game page on igg-games.com (and press enter)
 * ????
 * profit
 
